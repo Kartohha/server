@@ -1,0 +1,25 @@
+[
+   {
+     "id": "123",
+     "username": "exampleuser1",
+     "email": "user1@example.com",
+     "password": "hashedpassword1",
+     "balance": 1000,
+     "wins": 5,
+     "losses": 2,
+     "lastLogin": "2022-05-14T10:30:00Z"
+   },
+   {
+     "id": "456",
+     "username": "exampleuser2",
+     "email": "user2@example.com",
+     "password": "hashedpassword2",
+     "balance": 2000,
+     "wins": 8,
+     "losses": 3,
+     "lastLogin": "2022-05-15T12:00:00Z"
+   }
+ ]
+ 
+ 
+ 
